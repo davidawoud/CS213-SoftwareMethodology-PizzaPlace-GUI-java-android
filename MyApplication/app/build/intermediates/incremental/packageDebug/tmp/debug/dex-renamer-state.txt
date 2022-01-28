@@ -1,0 +1,10 @@
+#Mon Dec 06 22:29:40 EST 2021
+base.2=/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
+path.2=5/classes.dex
+base.1=/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.1=0/classes.dex
+base.0=/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
