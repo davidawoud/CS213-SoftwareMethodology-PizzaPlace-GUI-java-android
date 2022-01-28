@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/drawable_store_order.PNG.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/drawable/store_order.PNG"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/drawable_d_pizza.PNG.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/drawable/d_pizza.PNG"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/drawable_p_pizza.PNG.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/drawable/p_pizza.PNG"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/layout_activity_pizza.xml.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/layout/activity_pizza.xml"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/drawable_current_order.PNG.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/drawable/current_order.PNG"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/layout_activity_current_order.xml.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/layout/activity_current_order.xml"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/layout_activity_store_orders.xml.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/layout/activity_store_orders.xml"
+    },
+    {
+        "merged": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/build/intermediates/merged_res/debug/drawable_h_pizza.PNG.flat",
+        "source": "/Users/david/Desktop/Fall 21/CS-213/MyApplication/app/src/main/res/drawable/h_pizza.PNG"
+    }
+]
